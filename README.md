@@ -5,6 +5,6 @@ Intention was to make demo with scroll, line interrupts, color bars and wave. <b
 Almost done, but never finished.<br>
 
 <br>
-
-
+I have no clue anymore what the files contain. <br>
+Just came across these files on a lost drive and now downloadable for the lovers of MSX.<br>
 
