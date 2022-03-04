@@ -8,7 +8,9 @@ Almost done, but never finished.<br>
 I have no clue anymore what the files contain. <br>
 Just came across these files on a lost drive and now downloadable for the lovers of MSX.<br>
 <br>
-Checking files in Emulator..<br>
+I used most of the time WBASS2 Z80 Assembler<br>
+<br>
+Checked some files in Emulator..<br>
 <br>
 --- image files --<br>
 ARABIA.SCC  -> font screen  12<br>
